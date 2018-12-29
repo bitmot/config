@@ -1,0 +1,2 @@
+# config
+Multiplatform configuration library.
